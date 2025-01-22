@@ -1,6 +1,5 @@
 {
   "name": "NFT Example",
   "description": "An example NFT",
-  "image": "https://ipfs.io/ipns/k51qzi5uqu5dj5w0lh3bol84pxdyr3hntae1vu9insj79x82ayf7mzbl8or4d6",
-  "attributes": []
+  "image": "ipfs://bafybeihnnt4lel35ywbcc3qj4sm7h74edgixp6cv3rynqo2f7vid7gurci"
 }
